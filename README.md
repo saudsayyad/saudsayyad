@@ -41,8 +41,22 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/saudsayyad06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saudsayyad06" height="30" width="40" /></a>
 </p>
 
-![Static Badge](https://img.shields.io/badge/python-blue?logo=python&label=code)
+<h3 align="left">Languages and Tools:</h3>
 
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Mysql&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikitlearnn&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
+
+
+
+
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     
