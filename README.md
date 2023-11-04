@@ -41,32 +41,31 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/saudsayyad06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saudsayyad06" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and Tools:</h3>
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Mysql&logoColor=white&color=2CD4A7) 
-
-
-
-![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/BI-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2CD4A7)
-
-
-
-![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Matplolib-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
-
-
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2CD4A7&labelColor=grey)
-![](https://img.shields.io/badge/DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2CD4A7&labelColor=grey)
-![](https://img.shields.io/badge/Jupyter_Notebok-informational?flat&logo=jupyter&logoColor=white&color=2CD4A7&labelColor=grey)
-![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=wolframmathematica&logoColor=white&color=2CD4A7&labelColor=grey)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Mysql&logoColor=white&color=0FAEA4&labelColor=343633) 
+![](https://img.shields.io/badge/Data_Science-informational?style=flat&logo=pyg&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Data_Analysis-informational?style=flat&logo=alwaysdata&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Machine_Learning-informational?style=flat&logo=pypi&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Data_Visualization-informational?style=flat&logo=googleanalytics&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Business_Intelligence-informational?style=flat&logo=powerbi&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/BI-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=plotly&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/DataViz-Matplolib-informational?style=flat&logo=plotly&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Jupyter_Notebok-informational?flat&logo=jupyter&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=clyp&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Predictive_Analysis-informational?style=flat&logo=pytests&logoColor=white&color=0FAEA4&labelColor=343633)
 
 
 
