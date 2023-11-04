@@ -47,10 +47,29 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Mysql&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikitlearnn&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=Mysql&logoColor=white&color=2CD4A7) 
+
+
+
+![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/BI-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2CD4A7)
+
+
+
+![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
-![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Matplolib-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
+
+
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2CD4A7&labelColor=grey)
+![](https://img.shields.io/badge/DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2CD4A7&labelColor=grey)
+![](https://img.shields.io/badge/Jupyter_Notebok-informational?flat&logo=jupyter&logoColor=white&color=2CD4A7&labelColor=grey)
+![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=wolframmathematica&logoColor=white&color=2CD4A7&labelColor=grey)
+
+
+
 
 
 
