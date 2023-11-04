@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm Saud!</h1>
+-->
+<h1 align="center">Hi 👋, I'm Saud!</h1>
 <h3 align="center">Data Science and Machine Learning enthusiast from India</h3>
 
 
