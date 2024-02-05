@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=0FAEA4&labelColor=343633)
 ![](https://img.shields.io/badge/Jupyter_Notebok-informational?flat&logo=jupyter&logoColor=white&color=0FAEA4&labelColor=343633)
 ![](https://img.shields.io/badge/Statistics-informational?style=flat&logo=clyp&logoColor=white&color=0FAEA4&labelColor=343633)
-![](https://img.shields.io/badge/Predictive_Analysis-informational?style=flat&logo=pytests&logoColor=white&color=0FAEA4&labelColor=343633)
+![](https://img.shields.io/badge/Predictive_Analysis-informational?style=flat&logo=WeightsAndBiases&logoColor=white&color=0FAEA4&labelColor=343633)
 
 
 
