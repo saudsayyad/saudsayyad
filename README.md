@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on **predictive analysis project**
 
-- 🌱 I'm currently learning **Keras and Pytorch**
+- 🧑‍💻 I'm currently learning **Keras and Pytorch**
 
 - 📫 How to reach me **saudsayyad06@gmail.com**
 
